@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+logs/
+private/
+vendor/
+orbit_vendor/
+satellite_lib/
+orbital_data/
+*.exe
+*.sqlite*
+*.key
+*.pem
+conditions_config.json
+small_body_config.json
+satellite_config.json
+config.json
